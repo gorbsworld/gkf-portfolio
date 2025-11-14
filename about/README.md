@@ -15,7 +15,7 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - eLearning development
 - Curriculum strategy
 
-## 👨‍💼 Where I've worked:
+## 👨‍💼 Where I've Worked
 - Sky UK Ltd
 - Ickle Bubba
 - Mamas & Papas
@@ -34,7 +34,7 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - MS Office Suite
 - Articulate 360
 
-## 🔮 Fun Stuff
+## 🔮 Personal
 - 🐶 Willow<br />
 - 🦎 Taco<br />
 - 📚 SF, fantasy, classics<br />
@@ -42,7 +42,6 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - 👺 Old Japanese movies<br />
 - ⚾ American sports<br />
 - 🎮 FromSoftware<br />
-- 🎓 Music MA (Distinction): Experimental composition and free improvisation
 
 ## Contact
 gkfennell@gmail.com<br />
