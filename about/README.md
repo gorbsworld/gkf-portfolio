@@ -30,14 +30,15 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - diagrams.net
 - DAWs: Reaper / Logic Pro X
 - Adobe Creative Suite
+- Davinci Resolve
 - MS Office Suite
 - Articulate 360
 
 ## Fun Stuff
 - Pets: Willow (greyhound), Taco (leopard gecko)
-- Music MA (Distinction): Experimental composition and free improvisation
 - Collect: SF books, vinyl, old Japanese movies
+- Music MA (Distinction): Experimental composition and free improvisation
 
 ## Contact
-e. gkfennell@gmail.com
-linkedin.com/in/gkfennell/
+gkfennell@gmail.com<br />
+[LinkedIn](https://www.linkedin.com/in/gkfennell/)
