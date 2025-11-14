@@ -22,7 +22,7 @@ I'm currently expanding my technical skill set in **HTML, CSS, Markdown, and Git
 
 ## 🧠 About Me
 
-- 💼 10+ years experience in Learning & Development  
+- 💼 10+ years experience in **Learning & Development / Instructional Design** 
 - 🎓 MA in Music
 - 🎥 BA(Hons) Cinema & Photography
 - 💡 Passionate about explaining complex systems clearly  
