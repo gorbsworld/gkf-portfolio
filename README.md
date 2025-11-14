@@ -24,7 +24,7 @@ I'm currently expanding my technical skill set in **HTML, CSS, Markdown, and Git
 
 - 💼 10+ years experience in Learning & Development  
 - 🎓 MA in Music
-- 🎥 BA(hons) Cinema & Photography
+- 🎥 BA(Hons) Cinema & Photography
 - 💡 Passionate about explaining complex systems clearly  
 - 🧰 Tools I use: Markdown, Git / GitHub, VS Code, CodePen, diagrams.net, Reaper, Logic Pro X, Obsidian, Adobe Creative Suite, MS Office Suite, Articulate 360
 
