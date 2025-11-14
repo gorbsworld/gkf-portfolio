@@ -11,7 +11,7 @@ I'm currently expanding my technical skill set in **HTML, CSS, Markdown, and Git
 
 | Title | Type | Description |
 |--------|------|-------------|
-| [Recording High-Quality Audio on a Budget](samples/01-recording-audio-budget/README.md) | How-To Guide | Step-by-step setup for beginner musicians and creators |
+| [Recording a Podcast Voice Track](samples/01-podcast-recording-guide/README.md) | How-To Guide | Step-by-step setup for beginner podcast creators |
 | [How DAWs Process MIDI Data](samples/02-daw-midi-processing/README.md) | Tutorial | Explains how MIDI travels through digital audio workstations |
 | [The Science Behind Equalization](samples/03-equalization-science/README.md) | Explainer | Makes EQ concepts simple for beginners |
 | [MIDI CC Reference for Musicians](samples/04-midi-cc-reference/README.md) | Reference | Quick documentation-style guide for common CC values |
