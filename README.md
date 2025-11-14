@@ -1,4 +1,4 @@
-# 💽 Technical Writing Portfolio — Grant Fennell
+# Technical Writing Portfolio — Grant Fennell
 
 Welcome to my technical writing portfolio!  
 I come from a background in **Corporate Learning & Development** and **Music**, and I specialize in explaining complex technical and creative topics with clarity and structure.  
