@@ -1,4 +1,4 @@
-# 🎧 Technical Writing Portfolio — Grant Fennell
+# 💽 Technical Writing Portfolio — Grant Fennell
 
 Welcome to my technical writing portfolio!  
 I come from a background in **Corporate Learning & Development** and **Music**, and I specialize in explaining complex technical and creative topics with clarity and structure.  
@@ -22,8 +22,9 @@ I'm currently expanding my technical skill set in **HTML, CSS, Markdown, and Git
 
 ## 🧠 About Me
 
-- 🎓 MA in Music  
 - 💼 10+ years experience in Learning & Development  
+- 🎓 MA in Music
+- 🎥 BA(hons) Cinema & Photography
 - 💡 Passionate about explaining complex systems clearly  
 - 🧰 Tools I use: Markdown, Git / GitHub, VS Code, CodePen, diagrams.net, Reaper, Logic Pro X, Obsidian, Adobe Creative Suite, MS Office Suite, Articulate 360
 
