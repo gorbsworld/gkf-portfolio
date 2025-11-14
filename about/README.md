@@ -1,11 +1,11 @@
-# About Me
+# 🔎 About Me
 
 Hi! I'm Grant.
 
 I come from a background in **Corporate Learning & Development** and **Music**, and I specialize in explaining complex technical and creative topics with clarity and structure.
 I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown**, and **Git**, and exploring the intersection of **Learning & Development** and **Technical Documentation**.
 
-## What I Do
+## 📝 What I Do
 - Technical tutorials
 - Explainers
 - Troubleshooting guides
@@ -15,13 +15,13 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - eLearning development
 - Curriculum strategy
 
-## Where I've worked:
+## 👨‍💼 Where I've worked:
 - Sky UK Ltd
 - Ickle Bubba
 - Mamas & Papas
 - Apple Retail
 
-## Tools I Use
+## 🖱️ Tools I Use
 - Git / GitHub
 - Markdown
 - Obsidian
@@ -34,11 +34,18 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - MS Office Suite
 - Articulate 360
 
-## Fun Stuff
-- Pets: Willow (greyhound), Taco (leopard gecko)
-- Collect: SF books, vinyl, old Japanese movies
-- Music MA (Distinction): Experimental composition and free improvisation
+## 🔮 Fun Stuff
+- 🐶 Willow<br />
+- 🦎 Taco<br />
+- 📚 SF, fantasy, classics<br />
+- 💿 Jazz, rock, metal, experimental<br />
+- 👺 Old Japanese movies<br />
+- ⚾ American sports<br />
+- 🎮 FromSoftware<br />
+- 🎓 Music MA (Distinction): Experimental composition and free improvisation
 
 ## Contact
 gkfennell@gmail.com<br />
-[LinkedIn](https://www.linkedin.com/in/gkfennell/)
+[LinkedIn](https://www.linkedin.com/in/gkfennell/)<br />
+<br />
+[Return to home page →](main/README.md)
