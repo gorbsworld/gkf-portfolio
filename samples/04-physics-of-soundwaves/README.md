@@ -158,5 +158,3 @@ This creates:
 Even a little physics goes a long way.
 
 ---
-This piece showcases conceptual depth paired with accessibility — a core competency for technical documentation in fields where users need clarity without oversimplification.
-```
