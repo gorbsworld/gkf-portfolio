@@ -159,6 +159,21 @@ git push origin main
 
 If your default branch is `master`, replace `main` with `master`.
 
+> ### 🔐 Important: GitHub now requires a Personal Access Token (PAT)
+
+> GitHub no longer accepts account passwords for Git operations over HTTPS.  
+> If Git asks you for a password when running `git push`, you must use a **Personal Access Token (PAT)** instead of your GitHub password.
+
+> To create a PAT:
+1. Go to GitHub → Settings → Developer settings → Personal access tokens  
+2. Choose “Tokens (classic)”  
+3. Generate a token with the `repo` scope  
+4. Copy the token (you won’t be able to see it again)  
+5. When Git asks for your password, paste the token instead
+
+> Your GitHub username stays the same; only the password is replaced with the token.
+
+
 > **Screenshot Placeholder:** Terminal with `git add`, `git commit`, `git push`  
 
 ---
