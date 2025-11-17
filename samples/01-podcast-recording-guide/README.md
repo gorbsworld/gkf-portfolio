@@ -6,7 +6,7 @@ title: Recording Clean Podcast Audio
 # Recording a Podcast Voice Track Using Komplete Audio 6 and Audacity
 
 ## Overview
-This guide walks beginners through recording a clean spoken voice track for a podcast using a **Komplete Audio 6** and **Audacity**.  
+This guide walks beginners through recording a clean spoken voice track for a podcast using a **Komplete Audio 6 Audio Interface** and **Audacity**.  
 
 It covers: 
 - setup
