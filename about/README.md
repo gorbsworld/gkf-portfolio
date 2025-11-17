@@ -47,4 +47,3 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 gkfennell@gmail.com<br />
 [LinkedIn](https://www.linkedin.com/in/gkfennell/)<br />
 <br />
-[Return to home page →](/README.md)
