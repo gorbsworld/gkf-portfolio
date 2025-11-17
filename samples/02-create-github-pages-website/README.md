@@ -286,7 +286,3 @@ You now have a **live GitHub Pages website** built using **Jekyll** and managed 
 - Use of YAML configuration  
 - Ability to publish and maintain web documentation  
 - Understanding of static site generators  
-
-Perfect for showcasing in a technical writing portfolio.
-
----
