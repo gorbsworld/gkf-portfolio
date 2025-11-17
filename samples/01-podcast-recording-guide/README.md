@@ -1,3 +1,8 @@
+---
+layout: page
+title: Recording Clean Podcast Audio
+---
+
 # Recording a Podcast Voice Track Using Komplete Audio 6 and Audacity
 
 ## Overview
