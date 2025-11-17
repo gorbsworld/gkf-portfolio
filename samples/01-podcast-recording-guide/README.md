@@ -139,4 +139,7 @@ We’ll use a **dynamic USB/XLR microphone**, e.g., Audio-Technica ATR2100x-USB.
 ---
 
 ## Outcome
+
 Following this guide, beginners can produce a clean, professional-quality spoken voice track for a podcast using a specific, real-world hardware/software setup. 
+
+[Homepage](https://gorbsworld.github.io/gkf-portfolio/)
