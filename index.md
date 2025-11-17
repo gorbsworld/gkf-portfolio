@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical Writing Portfolio
+title: Grant Fennell's Portfolio
 permalink: /
 ---
 
