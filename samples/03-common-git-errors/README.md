@@ -50,7 +50,7 @@ When `git push` fails, follow this sequence:
    ```
 
    - If you see: `fatal: not a git repository...` → go to [Section 3](#3-not-a-git-repository-error)  
-   - Otherwise, continue.
+   - Otherwise, continue
 
 2. **Check what branch you’re on**
 
@@ -59,7 +59,7 @@ When `git push` fails, follow this sequence:
    ```
 
    - Look for the branch with `*` (e.g. `* main` or `* master`)
-   - If you push `main` but your branch is `master`, that’s the issue → see [Section 5](#5-src-refspec-main-does-not-match-any).
+   - If you push `main` but your branch is `master`, that’s the issue → see [Section 5](#5-src-refspec-main-does-not-match-any)
 
 3. **Try pushing and read the exact error**
 
@@ -84,8 +84,8 @@ fatal: not a git repository (or any of the parent directories): .git
 
 ### What it means
 
-Git doesn’t see a `.git` folder in your current directory.  
-You’re running Git commands **outside** of a repository.
+- Git doesn’t see a `.git` folder in your current directory 
+- You’re running Git commands **outside** of a repository
 
 ### How to fix it
 
@@ -228,7 +228,7 @@ git push -u origin main
 
 #### Option C — Make an initial commit
 
-If you have no commits, Git has nothing to push.
+If you have no commits, Git has nothing to push
 
 1. Create or edit a file  
 2. Stage and commit:
@@ -260,7 +260,7 @@ The remote named `origin` is not set, or it’s set to something invalid.
 git remote -v
 ```
 
-- If you see nothing → no remotes are configured  
+- If you see nothing → no remotes are configured
 - If `origin` exists but the URL is wrong, you’ll need to update it
 
 ### How to fix it
@@ -340,14 +340,9 @@ You’re using SSH (`git@github.com:...`) and GitHub is expecting a valid SSH ke
 
 ### Basic fixes
 
-If you don’t want to handle SSH keys right now, you can switch to HTTPS:
+If you don’t want to handle SSH keys right now, you can switch to using a PAT which we cover in [Section 4](#4-password-authentication-is-not-supported-for-git-operations).
 
-```bash
-git remote set-url origin https://github.com/USERNAME/REPO.git
-git push -u origin main
-```
-
-Or set up SSH keys (more advanced; can be added as a separate guide).
+Or you can set up an SSH key, which will be covered in a separate guide.
 
 ---
 
