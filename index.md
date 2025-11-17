@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grant Fennell's Portfolio
+title: Grant Fennell
 permalink: /
 ---
 
