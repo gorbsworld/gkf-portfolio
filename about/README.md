@@ -1,11 +1,11 @@
-# 🔎 About Me
+# About Me
 
 Hi! I'm Grant.
 
-I come from a background in **Corporate Learning & Development** and **Music**, and I specialize in explaining complex technical and creative topics with clarity and structure.
+I come from a background in **Corporate Learning & Development** and **Music Education**, and I specialize in explaining complex technical and creative topics with clarity and structure.
 I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown**, and **Git**, and exploring the intersection of **Learning & Development** and **Technical Documentation**.
 
-## 📝 What I Do
+## What I Do
 - Technical tutorials
 - Explainers
 - Troubleshooting guides
@@ -15,13 +15,13 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - eLearning development
 - Curriculum strategy
 
-## 👨‍💼 Where I've Worked
+## Where I've Worked
 - Sky UK Ltd
 - Ickle Bubba
 - Mamas & Papas
 - Apple Retail
 
-## 🖱️ Tools I Use
+## Tools I Use
 - Git / GitHub
 - Markdown
 - Obsidian
@@ -34,7 +34,7 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - MS Office Suite
 - Articulate 360
 
-## 🔮 Personal
+## Personal
 - 🐶 Willow<br />
 - 🦎 Taco<br />
 - 📚 SF, fantasy, classics<br />
