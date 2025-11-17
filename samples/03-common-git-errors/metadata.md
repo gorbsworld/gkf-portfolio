@@ -1,4 +1,3 @@
-```markdown
 # Metadata — Git Push Troubleshooting Guide
 
 **Context:**  
@@ -24,4 +23,3 @@ Git, GitHub, command line, Markdown.
 
 **Reflection:**  
 This guide reflects how I think as a technical writer: I identify where users are most likely to get stuck, surface error messages they will actually see, and offer a mix of quick-glance explanations and detailed solutions. It also shows my familiarity with modern GitHub practices, such as the requirement for personal access tokens (PATs) over passwords.
-```
