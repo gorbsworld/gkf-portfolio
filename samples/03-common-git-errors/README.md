@@ -1,3 +1,7 @@
+---
+layout: page
+title: Troubleshooting Git Push Errors
+---
 
 # Troubleshooting Git Push Errors (Beginner-Friendly Guide)
 
