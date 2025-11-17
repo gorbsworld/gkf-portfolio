@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grant Fennell
+title: /
 permalink: /
 ---
 
