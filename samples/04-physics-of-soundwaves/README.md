@@ -123,21 +123,21 @@ For speech, wide adjustments usually sound more natural.
 
 ## 6. Practical EQ Tips Based on The Physics
 
-### ✔ Add clarity  
+### Add clarity  
 Boost **1–3 kHz** gently.  
 This enhances intelligibility — our ears are tuned to this range.
 
-### ✔ Reduce muddiness  
+### Reduce muddiness  
 Cut **200–400 Hz** if the voice sounds “boxy” or “cloudy.”  
 These frequencies often build up in small rooms.
 
-### ✔ Control harshness  
+### Control harshness  
 If the voice sounds sharp or piercing, consider cutting around **3–5 kHz**.
 
-### ✔ Tame sibilance  
+### Tame sibilance  
 If you hear too much “sss” or “shhh,” cut around **6–8 kHz**.
 
-### ✔ Add air  
+### Add air  
 A small high-shelf boost around **10–12 kHz** can add polish.
 
 ---
