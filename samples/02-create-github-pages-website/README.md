@@ -42,7 +42,8 @@ git push
 
 1. Log into GitHub.  
 2. Click **New Repository**.  
-   > **Screenshot Placeholder:** GitHub → "+" → "New repository"  
+![GitHub new repository screen](https://github.com/gorbsworld/gkf-portfolio/tree/main/samples/02-create-github-pages-website/assets/ss1.png)
+
 
 3. Name your repository:
 
