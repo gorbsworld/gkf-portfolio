@@ -286,3 +286,5 @@ You now have a **live GitHub Pages website** built using **Jekyll** and managed 
 - Use of YAML configuration  
 - Ability to publish and maintain web documentation  
 - Understanding of static site generators  
+
+[Homepage](https://gorbsworld.github.io/gkf-portfolio/)
