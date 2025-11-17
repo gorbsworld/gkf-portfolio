@@ -17,7 +17,7 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 
 | Title | Type | Description |
 |--------|------|-------------|
-| [Recording a Podcast Voice Track with Scarlett Solo + Audacity](samples/01-podcast-recording-guide/README.md) | How-To Guide | Beginner guide to capture clear voice recordings using basic tools |
+| [Recording a Podcast Voice Track with Komplete Audio 6 + Audacity](samples/01-podcast-recording-guide/README.md) | How-To Guide | Beginner guide to capture clear voice recordings using basic tools |
 | [Creating and Publishing a Website with GitHub Pages](samples/02-create-github-pages-website/README.md) | Software Tutorial | Step-by-step tutorial for creating and deploying a Jekyll website |
 | [Common Git Errors and How to Fix Them](samples/03-common-git-errors/README.md) | Troubleshooting Guide | Clear explanations of common Git errors and practical solutions. |
 | [The Physics of Sound Waves for Podcasters](samples/04-physics-of-soundwaves/README.md) | Conceptual Explanation | Accessible overview of frequency and EQ principles for podcasters |
