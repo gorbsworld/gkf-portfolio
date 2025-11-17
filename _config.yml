@@ -1,6 +1,6 @@
 title: Technical Writing Portfolio
 description: Portfolio of technical writing samples by G.K. Fen
-theme: minima
+theme: jekyll-theme-midnight
 
 url: https://gorbsworld.github.io
 baseurl: /gkf-portfolio
