@@ -52,3 +52,4 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 [gkfennell@gmail.com](mailto:gkfennell@gmail.com)<br />
 [LinkedIn](https://www.linkedin.com/in/gkfennell/)<br />
 <br />
+[Homepage](https://gorbsworld.github.io/gkf-portfolio/)
