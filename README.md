@@ -1,7 +1,7 @@
 # Technical Writing Portfolio — Grant Fennell
 
 Welcome to my technical writing portfolio!  
-I come from a background in **Corporate Learning & Development** and **Music**, and I specialize in explaining complex technical and creative topics with clarity and structure.  
+I come from a background in **Corporate Learning & Development** and **Music Education**, and I specialize in explaining complex technical and creative topics with clarity and structure.  
 
 I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown**, and **Git**, and exploring the intersection of **Learning & Development** and **Technical Documentation**.
 
