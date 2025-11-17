@@ -1,10 +1,8 @@
-<details>
 ---
 layout: page
 title: Grant Fennell's Portfolio
 permalink: /
 ---
-</details>
 
 # Technical Writing Portfolio — Grant Fennell
 
