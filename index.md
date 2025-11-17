@@ -1,6 +1,6 @@
 ---
 layout: default
-title: /
+title: Grant's Portfolio
 permalink: /
 ---
 
