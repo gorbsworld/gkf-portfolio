@@ -1,3 +1,8 @@
+---
+layout: page
+title: Physics of Sound Waves
+---
+
 # The Physics of Sound Waves: What Podcasters Need to Know About Frequency and EQ
 
 ## Overview
