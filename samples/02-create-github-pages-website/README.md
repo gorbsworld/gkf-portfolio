@@ -60,39 +60,52 @@ This naming format is required for GitHub Pages user sites.
 
 ---
 
-# 3. Clone the Repository Using Git
+## 3. Clone the Repository (Terminal Only)
 
-Open your terminal and run:
+🖥 **Where this step happens:** Terminal / Command Prompt<br />
 
-```
-git clone https://github.com/yourusername/yourusername.github.io
-```
+Run the following command in your terminal (replace with your actual username):
 
-Change into the new folder:
-
-```
-cd yourusername.github.io
+```bash
+git clone https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io
 ```
 
-> **Screenshot Placeholder:** Terminal showing `git clone` and `cd` commands  
+This downloads your repository and creates a **new folder** on your computer with the same name as the repo.
+
+Next, still in the terminal, move into that folder:
+
+```bash
+cd YOUR_USERNAME.github.io
+```
+
+> **Tip:** If `cd` doesn't work, run `ls` (Mac/Linux/Git Bash) or `dir` (Windows) to confirm the folder name.
 
 ---
 
-# 4. Add a Jekyll Theme via `_config.yml`
+## 4. Add the Jekyll Theme (Code Editor Only)
 
-Inside your repo folder, create a new file named:
+📝 **Where this step happens:** Your code editor (VS Code, Sublime Text, etc.)
+
+1. Open your code editor.  
+2. Open the cloned folder (`YOUR_USERNAME.github.io`).  
+3. Create a new file named:
 
 ```
 _config.yml
 ```
 
-Add the following YAML:
+4. Paste the following YAML into the file:
 
 ```yaml
 title: My Portfolio
 description: A simple website built with GitHub Pages and Jekyll.
 theme: minima
 ```
+
+5. Save the file.
+
+This file tells GitHub Pages which theme to apply to your site.
+
 
 **Explanation:**
 - `theme:` sets your site’s look and layout  
@@ -104,6 +117,8 @@ theme: minima
 ---
 
 # 5. Create Your Homepage Using `index.md`
+
+📝 **Where this step happens:** Your code editor (VS Code, Sublime Text, etc.)  
 
 Create a file named:
 
