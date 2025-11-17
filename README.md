@@ -11,12 +11,10 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 
 | Title | Type | Description |
 |--------|------|-------------|
-| [Recording a Podcast Voice Track](samples/01-podcast-recording-guide/README.md) | How-To Guide | Step-by-step setup for beginner podcast creators |
-| [How DAWs Process MIDI Data](samples/02-daw-midi-processing/README.md) | Tutorial | Explains how MIDI travels through digital audio workstations |
-| [The Science Behind Equalization](samples/03-equalization-science/README.md) | Explainer | Makes EQ concepts simple for beginners |
-| [MIDI CC Reference for Musicians](samples/04-midi-cc-reference/README.md) | Reference | Quick documentation-style guide for common CC values |
-| [From Sound Waves to Bits](samples/05-sound-waves-to-bits/README.md) | Conceptual | Breaks down how digital audio recording works |
-| [Fixing Latency in DAWs](samples/06-latency-troubleshooting/README.md) | Troubleshooting Guide | Helps users diagnose and fix latency problems |
+| [Recording a Podcast Voice Track with Scarlett Solo + Audacity](samples/01-podcast-recording-guide/README.md) | How-To Guide | Step-by-step setup for beginner podcast creators |
+| [Creating and Publishing a Website with GitHub Pages](samples/02-create-github-pages-website/README.md) | Software Tutorial | Explains how MIDI travels through digital audio workstations |
+| [Common Git Errors and How to Fix Them](samples/03-common-git-errors/README.md) | Troubleshooting Guide | Makes EQ concepts simple for beginners |
+| [The Physics of Sound Waves for Podcasters](samples/04-physics-of-soundwaves/README.md) | Conceptual Explanation | Quick documentation-style guide for common CC values |
 
 ---
 
