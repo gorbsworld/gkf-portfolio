@@ -44,6 +44,6 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 - 🎮 FromSoftware<br />
 
 ## Contact
-gkfennell@gmail.com<br />
+[gkfennell@gmail.com](gkfennell@gmail.com<br />
 [LinkedIn](https://www.linkedin.com/in/gkfennell/)<br />
 <br />
