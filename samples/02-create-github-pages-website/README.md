@@ -1,4 +1,4 @@
-# 🚀 How to Create and Publish a Website Using GitHub Pages and Jekyll
+# How to Create and Publish a Website Using GitHub Pages and Jekyll
 
 ## Overview
 This tutorial walks beginners through creating and publishing a simple personal website using **GitHub Pages**, **Jekyll**, and **basic Git command-line workflows**.
@@ -18,16 +18,16 @@ By the end, you will have:
 
 Before starting, ensure you have:
 
-### ✔ Git installed
+### Git installed ✔
 Download from: https://git-scm.com/downloads
 
-### ✔ A GitHub account
+### A GitHub account ✔
 Sign up: https://github.com/
 
-### ✔ A code/text editor  
+### A code/text editor ✔  
 Examples: Visual Studio Code, Sublime Text, Atom.
 
-### ✔ Basic familiarity with the terminal  
+### Basic familiarity with the terminal ✔
 You will run simple commands like:
 ```
 git clone
@@ -89,7 +89,7 @@ cd YOUR_USERNAME.github.io
 
 ## 4. Add the Jekyll Theme (Code Editor Only)
 
-📝 **Where this step happens:** Your code editor (VS Code, Sublime Text, etc.)
+**Where this step happens:** Your code editor (VS Code, Sublime Text, etc.)
 
 1. Open your code editor.  
 2. Open the cloned folder (`YOUR_USERNAME.github.io`).  
@@ -123,7 +123,7 @@ This file tells GitHub Pages which theme to apply to your site.
 
 # 5. Create Your Homepage Using `index.md`
 
-📝 **Where this step happens:** Your code editor (VS Code, Sublime Text, etc.)  
+**Where this step happens:** Your code editor (VS Code, Sublime Text, etc.)  
 
 Create a file named:
 
@@ -167,7 +167,7 @@ If your default branch is `master`, replace `main` with `master`.
 ![Screenshot: Git Add, Commit](assets/ss7.png)
 ![Screenshot: Git Push](assets/ss8.png)
 
-### 🔐 Important: GitHub now requires a Personal Access Token (PAT)
+### Important: GitHub now requires a Personal Access Token (PAT)
 
 GitHub no longer accepts account passwords for Git operations over HTTPS.  
 If Git asks you for a password when running `git push`, you must use a **Personal Access Token (PAT)** instead of your GitHub password.
