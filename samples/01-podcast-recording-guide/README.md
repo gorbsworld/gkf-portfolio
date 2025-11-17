@@ -22,6 +22,8 @@ We’ll use a **dynamic USB/XLR microphone**, e.g., Audio-Technica ATR2100x-USB.
 - Secure the mic on a boom stand at **6–8 inches** from your mouth  
 - Optional: attach a pop filter or windscreen to reduce plosives
 
+![Screenshot: Microphone](assets/a1.png)
+
 ### 1.2 Komplete Audio 6 Interface
 1. Plug the Komplete Audio 6 into your computer using the supplied USB cable  
 2. Turn on the interface (it’s bus-powered; lights indicate connection)  
@@ -30,6 +32,8 @@ We’ll use a **dynamic USB/XLR microphone**, e.g., Audio-Technica ATR2100x-USB.
 *_If your podcast might include laughter or raised voices, test gain levels accordingly._
 
 > **Tip:** Red LED = clipping; lower the gain until the green zone is reached
+
+![Screenshot: Komplete Audio 6](assets/a2.png)
 
 ### 1.3 Headphones
 - Connect headphones to the **Headphone output** (_you may need a 3.5mm to 6.35mm adapter_)
@@ -67,15 +71,19 @@ We’ll use a **dynamic USB/XLR microphone**, e.g., Audio-Technica ATR2100x-USB.
 
    These are standard settings for podcast-quality spoken audio.
 
-7. Click **OK** to save your settings.
+![Screenshot: Audacity Set Up](assets/a3.png)
 
-8. Set your recording levels:
+8. Click **OK** to save your settings.
+
+9. Set your recording levels:
    - Speak at normal conversation volume  
    - Watch the input meter in the top toolbar  
    - Aim for peaks around **–12 dB**  
    - Adjust using the **gain knob on the Komplete Audio 6**, not inside Audacity
+  
+![Screenshot: Recording Levels](assets/a4.png)
 
-9. Arm and test your setup:
+10. Arm and test your setup:
    - Click **Record** (red circle)  
    - Speak normally  
    - Stop and playback your test recording  
