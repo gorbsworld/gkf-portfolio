@@ -13,7 +13,7 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 
 ---
 
-## 📘 Featured Writing Samples
+## Featured Writing Samples
 
 | Title | Type | Description |
 |--------|------|-------------|
@@ -24,7 +24,7 @@ I'm currently expanding my technical skill set in **HTML**, **CSS**, **Markdown*
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 💼 10+ years experience in **Learning & Development / Instructional Design** 
 - 🎓 MA in Music
