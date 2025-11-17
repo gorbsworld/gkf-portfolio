@@ -41,11 +41,13 @@ git push
 # 2. Create Your GitHub Pages Repository
 
 1. Log into GitHub.  
-2. Click **New Repository**.  
-![GitHub new repository screen](https://github.com/gorbsworld/gkf-portfolio/tree/main/samples/02-create-github-pages-website/assets/ss1.png)
+2. Click **New Repository**.
 
+![Screenshot: GitHub New Selector](assets/ss1.png)
 
-3. Name your repository:
+![Screenshot: GitHub New Repository Selector](assets/ss2.png)
+
+4. Name your repository:
 
 ```
 yourusername.github.io
@@ -57,7 +59,7 @@ This naming format is required for GitHub Pages user sites.
 5. Do **not** initialize with a README (we’ll add files manually).  
 6. Click **Create repository**.
 
-> **Screenshot Placeholder:** New repo form with correct settings  
+![Screenshot: GitHub New Repository Settings](assets/ss3.png)
 
 ---
 
@@ -80,6 +82,8 @@ cd YOUR_USERNAME.github.io
 ```
 
 > **Tip:** If `cd` doesn't work, run `ls` (Mac/Linux/Git Bash) or `dir` (Windows) to confirm the folder name.
+
+![Screenshot: Terminal Clone](assets/ss4.png)
 
 ---
 
@@ -113,7 +117,7 @@ This file tells GitHub Pages which theme to apply to your site.
 - `title:` appears in site header/title  
 - `description:` appears in metadata  
 
-> **Screenshot Placeholder:** Editor showing a `_config.yml` file  
+![Screenshot: Add Jekyll Theme](assets/ss5.png)
 
 ---
 
@@ -144,7 +148,7 @@ Here you'll find examples of my technical writing, tutorials, and documentation 
 
 This Markdown file becomes your homepage.
 
-> **Screenshot Placeholder:** Editor showing `index.md` with front matter  
+![Screenshot: Editor showing `index.md` with front matter](assets/ss6.png)
 
 ---
 
@@ -160,22 +164,22 @@ git push origin main
 
 If your default branch is `master`, replace `main` with `master`.
 
-> ### 🔐 Important: GitHub now requires a Personal Access Token (PAT)
+![Screenshot: Git Add, Commit](assets/ss7.png)
+![Screenshot: Git Push](assets/ss8.png)
 
-> GitHub no longer accepts account passwords for Git operations over HTTPS.  
-> If Git asks you for a password when running `git push`, you must use a **Personal Access Token (PAT)** instead of your GitHub password.
+### 🔐 Important: GitHub now requires a Personal Access Token (PAT)
 
-> To create a PAT:
+GitHub no longer accepts account passwords for Git operations over HTTPS.  
+If Git asks you for a password when running `git push`, you must use a **Personal Access Token (PAT)** instead of your GitHub password.
+
+To create a PAT:
 1. Go to GitHub → Settings → Developer settings → Personal access tokens  
 2. Choose “Tokens (classic)”  
 3. Generate a token with the `repo` scope  
 4. Copy the token (you won’t be able to see it again)  
 5. When Git asks for your password, paste the token instead
 
-> Your GitHub username stays the same; only the password is replaced with the token.
-
-
-> **Screenshot Placeholder:** Terminal with `git add`, `git commit`, `git push`  
+Your GitHub username stays the same; only the password is replaced with the token.
 
 ---
 
@@ -183,7 +187,7 @@ If your default branch is `master`, replace `main` with `master`.
 
 1. Go to your repository on GitHub.  
 2. Click **Settings** → **Pages**.  
-   > **Screenshot Placeholder:** GitHub → Settings → Pages  
+![Screenshot: GitHub, Settings, Pages](assets/ss9.png)
 
 3. Under **Source**, choose:
 - Branch: `main`
@@ -192,8 +196,6 @@ If your default branch is `master`, replace `main` with `master`.
 4. Click **Save**.
 
 GitHub will now build your site.
-
-> **Screenshot Placeholder:** GitHub Pages configuration page  
 
 ---
 
@@ -210,7 +212,7 @@ If it doesn’t load immediately:
 - Refresh your browser  
 - Verify the Pages settings  
 
-> **Screenshot Placeholder:** Browser showing the published site  
+![Screenshot: Git Pages Configurations Page](assets/ss10.png)
 
 ---
 
