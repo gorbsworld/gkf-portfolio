@@ -1,9 +1,6 @@
 title: Technical Writing Portfolio
 description: Portfolio of technical writing samples by G. K. Fennell
-theme: minima
-
-minima:
-skin: dark
+theme: jekyll-theme-midnight
 
 url: https://gorbsworld.github.io
 baseurl: /gkf-portfolio
