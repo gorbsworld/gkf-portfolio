@@ -1,7 +1,7 @@
-# Recording a Podcast Voice Track Using Focusrite Scarlett Solo and Audacity
+# Recording a Podcast Voice Track Using Komplete Audio 6 and Audacity
 
 ## Overview
-This guide walks beginners through recording a clean spoken voice track for a podcast using a **Focusrite Scarlett Solo (2nd Gen)** and **Audacity**.  
+This guide walks beginners through recording a clean spoken voice track for a podcast using a **Komplete Audio 6** and **Audacity**.  
 
 It covers: 
 - setup
@@ -18,12 +18,12 @@ It covers:
 
 ### 1.1 Microphone
 We’ll use a **dynamic USB/XLR microphone**, e.g., Audio-Technica ATR2100x-USB.  
-- Connect the microphone to the Scarlett Solo XLR input  
+- Connect the microphone to the Komplete Audio 6 XLR input  
 - Secure the mic on a boom stand at **6–8 inches** from your mouth  
 - Optional: attach a pop filter or windscreen to reduce plosives
 
-### 1.2 Scarlett Solo Interface
-1. Plug the Scarlett Solo into your computer using the supplied USB cable  
+### 1.2 Komplete Audio 6 Interface
+1. Plug the Komplete Audio 6 into your computer using the supplied USB cable  
 2. Turn on the interface (it’s bus-powered; lights indicate connection)  
 3. Adjust the **Gain knob** on the front so the **Halo LED** peaks in the green zone when you speak at normal volume*
    
@@ -37,17 +37,49 @@ We’ll use a **dynamic USB/XLR microphone**, e.g., Audio-Technica ATR2100x-USB.
 
 ---
 
-## 2. Audacity Setup
-1. Open **Audacity**  
-2. In the top menu:  
-   - Set **Audio Host** to “MME” (Windows) or “Core Audio” (Mac)  
-   - Select **Scarlett Solo** as the recording device  
-   - Set playback device to your headphones  
-3. Click the **microphone dropdown** and ensure the correct input channel is selected (usually “Mono 1 (Focusrite USB)”)  
-4. Set recording levels:  
-   - Speak at normal volume and watch the input meter  
-   - Aim for peaks around **-12 dB**  
-   - Adjust audio peaks with the Scarlett Solo gain knob if needed
+## 2. Audacity Setup (Audacity 3.7.5)
+
+1. Open **Audacity**.
+
+2. Go to **Edit → Preferences → Audio Settings**  
+   (On Mac: **Audacity → Preferences → Audio Settings**)
+
+3. Under **Interface**, set:
+   - **Host:**  
+     - *Windows:* Select **MME** or **Windows WASAPI**  
+     - *Mac:* Select **Core Audio**
+
+4. Under **Playback**, set:
+   - **Device:** **Komplete Audio 6** 
+     This ensures audio plays back through the headphones connected to your Scarlett interface.
+
+5. Under **Recording**, set:
+   - **Device:** **Komplete Audio 6**  
+     This tells Audacity to record from your microphone connected to the Scarlett.
+   - **Channels:**  
+     Select **1 (Mono)** for spoken voice recording.  
+     (Podcast vocals should always be recorded in mono.)
+
+6. Under **Quality**, confirm:
+   - **Project Sample Rate:** **44100 Hz**  
+   - **Default Sample Rate:** **44100 Hz**  
+   - **Default Sample Format:** **32-bit float**
+
+   These are standard settings for podcast-quality spoken audio.
+
+7. Click **OK** to save your settings.
+
+8. Set your recording levels:
+   - Speak at normal conversation volume  
+   - Watch the input meter in the top toolbar  
+   - Aim for peaks around **–12 dB**  
+   - Adjust using the **gain knob on the Komplete Audio 6**, not inside Audacity
+
+9. Arm and test your setup:
+   - Click **Record** (red circle)  
+   - Speak normally  
+   - Stop and playback your test recording  
+   - If you hear crackling, clipping, or room noise, adjust the gain or microphone position
 
 ---
 
@@ -78,7 +110,7 @@ We’ll use a **dynamic USB/XLR microphone**, e.g., Audio-Technica ATR2100x-USB.
 ## 5. Final Checklist Before Recording
 - Microphone 6–8 inches from mouth  
 - Pop filter attached (optional)  
-- Scarlett Solo Gain peaks in green zone  
+- Komplete Audio 6 peaks in green zone  
 - Room acoustics improved (blankets/pillows if needed)  
 - Audacity input levels around -12 dB  
 - Headphones connected for monitoring  
