@@ -1,3 +1,8 @@
+---
+layout: page
+title: Creating and Publishing a Website Using GitHub Pages
+---
+
 # How to Create and Publish a Website Using GitHub Pages and Jekyll
 
 ## Overview
