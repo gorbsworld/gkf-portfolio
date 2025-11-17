@@ -371,5 +371,3 @@ git push origin main    # or 'master', depending on your branch name
 ```
 
 If something goes wrong, match the error you see with the sections in this guide.
-
----
