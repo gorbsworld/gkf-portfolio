@@ -22,7 +22,7 @@ We’ll use a **dynamic USB/XLR microphone**, e.g., Audio-Technica ATR2100x-USB.
 - Secure the mic on a boom stand at **6–8 inches** from your mouth  
 - Optional: attach a pop filter or windscreen to reduce plosives
 
-![Screenshot: Microphone](assets/a1.png)
+![Screenshot: Microphone](assets/a5.png)
 
 ### 1.2 Komplete Audio 6 Interface
 1. Plug the Komplete Audio 6 into your computer using the supplied USB cable  
