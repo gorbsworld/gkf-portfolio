@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Creating and Publishing a Website Using GitHub Pages
 ---
 
